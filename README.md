@@ -79,5 +79,3 @@ This repository showcases my certifications and internship documents across vari
 
 ⭐ *Thank you for exploring my repository! More certificates and updates will be added as I continue to grow.*  
 🛠️ *Feel free to fork or refer if you'd like to organize your certification portfolio the same way.*
-```
-
